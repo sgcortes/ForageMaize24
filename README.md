@@ -17,7 +17,7 @@ The input variables are 15:
 * pH
 * Tmax(ºC)
 * Tmin(ºC)
-* Radiation(MJ/m2)
+* Radiation(MJ/m2 day)
 * Precipitation(mm)
 * Anthesis date(Julian day)
 * Harvest date(Julian day)
